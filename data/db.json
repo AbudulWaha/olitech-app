@@ -1,0 +1,27 @@
+{
+  "home" : [
+    {"id": 1, "head_name": "INTRODUCTION TO HTML || HTML BASICS", "poster" :"/assets/images/video_img/introduction_to_html.png", "video" : "/assets/video/css_phase_one.mp4"},
+    {"id": 2, "head_name": "HTML ELEMENT || HTML BASICS", "poster" :"/assets/images/video_img/html_element.png"},
+    {"id": 3, "head_name": "HTML ATTRIBUTE || HTML BASICS", "poster" :"/assets/images/video_img/html_attribute.png"},
+    {"id": 4, "head_name": "HTML TABLE  || HTML BASICS", "poster" :"/assets/images/video_img/html_table.png"},
+    {"id": 5, "head_name": "HTML FORM || HTML BASICS", "poster" :"/assets/images/video_img/html_form.png"},
+    {"id": 6, "head_name": "DIV AND SPAN IN HTML || HTML BASICS", "poster" :"/assets/images/video_img/div_span_html.png"}
+  ],
+  "tutorial" : [
+    {"id": 1, "head_name": "INTRODUCTION TO HTML || HTML BASICS", "poster" :"/assets/images/video_img/introduction_to_html.png", "video" : "/assets/video/css_phase_one.mp4"},
+    {"id": 2, "head_name": "HTML ELEMENT || HTML BASICS", "poster" :"/assets/images/video_img/html_element.png"},
+    {"id": 3, "head_name": "HTML ATTRIBUTE || HTML BASICS", "poster" :"/assets/images/video_img/html_attribute.png"},
+    {"id": 4, "head_name": "HTML TABLE  || HTML BASICS", "poster" :"/assets/images/video_img/html_table.png"},
+    {"id": 5, "head_name": "HTML FORM || HTML BASICS", "poster" :"/assets/images/video_img/html_form.png"},
+    {"id": 6, "head_name": "LIST IN HTML || HTML BASICS", "poster" :"/assets/images/video_img/list_in_html.png"},
+    {"id": 7, "head_name": "DIV AND SPAN IN HTML || HTML BASICS", "poster" :"/assets/images/video_img/div_span_html.png"},
+    {"id": 8, "head_name": "INTRODUCTION TO CSS|| CSS BASICS", "poster" :"/assets/images/video_img/introduction_to_css.png"},
+    {"id": 9, "head_name": "TEXT STYLING|| CSS BASICS", "poster" :"/assets/images/video_img/text_formation.png"},
+    {"id": 10, "head_name": "HEIGHT AND WIDTH STYLING IN CSS|| CSS BASICS", "poster" :"/assets/images/video_img/height_width_css.png"},
+    {"id": 11, "head_name": "LIST AND LINK STYLING IN CSS|| CSS BASICS", "poster" :"/assets/images/video_img/list_link_css.png"}
+  ],
+  "users" : [
+    
+  ]
+    
+}
