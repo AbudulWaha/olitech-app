@@ -4,6 +4,7 @@ import Player from "../pages/player/Player"
 import Blog from "../pages/Blog"
 import CssBlog from "../pages/Blog/CssBlog"
 import HtmlBlog from "../pages/Blog/HtmlBlog"
+import PrivacyPolicy from "../pages/PrivacyPolicy"
 
 
 export const Allroute = () => {
@@ -20,6 +21,8 @@ export const Allroute = () => {
         <Route path="/player/:id" element={<Player />} />
         <Route path="/blog/html" element={<HtmlBlog />} />
         <Route path="/blog/css" element={<CssBlog />} />
+        <Route path="/privacypolicy" element={<PrivacyPolicy />} />
+
       </Routes>
     </main>
   )

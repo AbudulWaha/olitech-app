@@ -1,20 +1,18 @@
 
-import { Link, useNavigate } from "react-router-dom"
+import { Link} from "react-router-dom"
 import "./Player.css"
-import { useEffect } from "react"
-export const SmallCard = ({tstat}) => {
-  const {id, poster, head_name}=tstat
-  const Navigate = useNavigate()
+export const SmallCard = ({get}) => {
+  const {id, poster, head_name}=get
   
   return (
     
-    <div className='flex  border w-96 mb-2'>
-      <Link to="/tutorial">
-        <div className=" overflow-hidden" >
+    <div className='flex '>
+      <Link to={`/player/${id}`}>
+        <div className="max-w-xs" >
           <img className='small' src={poster} alt='' />
         </div>
       </Link>
-      <Link to="/tutorial">
+      <Link to={`/player/${id}`}>
         <div className="text-xl ml-3">
           {head_name}
         </div>

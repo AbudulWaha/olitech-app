@@ -1,13 +1,10 @@
 import React, { useState } from 'react'
 import { Link } from 'react-router-dom'
-import { BsSearch} from "react-icons/bs"
-import { Search } from './Search'
 
 
 export const Header = () => {
 
   const [hidden, setHidden] = useState(true)
-  const [shidden, setShidden] = useState(false)
   return (
     <header>
       

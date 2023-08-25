@@ -19,9 +19,7 @@
     {"id": 9, "head_name": "TEXT STYLING|| CSS BASICS", "poster" :"/assets/images/video_img/text_formation.png"},
     {"id": 10, "head_name": "HEIGHT AND WIDTH STYLING IN CSS|| CSS BASICS", "poster" :"/assets/images/video_img/height_width_css.png"},
     {"id": 11, "head_name": "LIST AND LINK STYLING IN CSS|| CSS BASICS", "poster" :"/assets/images/video_img/list_link_css.png"}
-  ],
-  "users" : [
-    
   ]
+  
     
 }

@@ -152,7 +152,7 @@ const HtmlBlog = () => {
         `}</p>
         <p>Example</p>
         <span>
-          <img src={paragraph} about='' />
+          <img src={paragraph} alt='' />
         </span>
         <p>This will produce the following result</p>
         <span>

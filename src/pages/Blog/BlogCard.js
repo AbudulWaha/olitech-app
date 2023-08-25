@@ -2,13 +2,13 @@ import React from 'react'
 import { Link } from 'react-router-dom'
 
 const BlogCard = ({log}) => {
-  const {id, name, img, about, link} = log
+  const { name, img, about, link} = log
   return (
     <div>
       <div class="max-w-xl m-4 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 flex flex-row">
           <div className='flex px-3 '>
             <Link to={link}>
-                <img class="rounded-t-lg max-h-56 pt-4" src={img} alt="" />
+                <img class="rounded-t-lg max-h-56 pt-4" src={img} alt='' />
             </Link>
           </div>
           <div class="p-5 max-w-md">
